@@ -13,5 +13,8 @@
     "chai": "^3.5.0",
     "mocha": "^2.4.5",
     "superagent": "^1.8.0-beta.1"
+  },
+  "dependencies": {
+    "mongodb": "^2.1.7"
   }
 }
